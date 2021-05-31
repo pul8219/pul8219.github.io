@@ -1,8 +1,7 @@
 ---
-title: "알고리즘 문제풀이"
+title: "자료구조"
 layout: category
-category: algorithm-problems
-author_profile: true
+category: data-structure
 # permalink: categories/algorithm
 # author_profile: true
 # taxonomy: Algorithm
