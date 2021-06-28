@@ -25,10 +25,12 @@
       {% endif %}
     </h2>
     {% include page__meta.html type=include.type %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
-    <!-- 작성날짜 추가 -->
+    {% if post.excerpt %}
+    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>
+    {% endif %}
+    <!-- 작성날짜 추가
     {% if post.date %}
     <span class="page__date"><i class="far fa-clock" aria-hidden="true"></i>{{ post.date | date: "%Y-%m-%d" }}</span>
-    {% endif %}
+    {% endif %} -->
   </article>
 </div>
