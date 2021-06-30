@@ -5,14 +5,15 @@ categories:
   - frontend-study
 ---
 
-[스터디 문서 목록](https://github.com/pul8219/TIL/blob/master/Documents/FrontEnd-Study/README.md)
+Post Process, Transform 3D
 
-> STEP 43
+> **STEP 43**
 >
 > - 작성자: Wol-dan (@pul8219)
 > - 스터디 주제: FrontEnd 면접 스터디 <https://gitlab.com/siots-study/topics/-/wikis/%EC%8B%AC%ED%99%941>
 > - 공부 범위: STEP 43 [코드스피츠76 CSS Rendering - 4회차](https://www.youtube.com/watch?v=Tf5KvpYNNv8c)
 > - 기한: 06/26(토) ~ 06/29(화) (STEP 43)
+> - [📋 스터디 문서 목록 바로가기](https://github.com/pul8219/TIL/blob/master/Documents/FrontEnd-Study/README.md)
 
 > 수학 함수를 정확하게 알지 못해도 개념을 알고 사용할 줄은 알아야한다.
 
@@ -129,7 +130,7 @@ perspective-origin: 100% 100% // 우측 하단 // 이 경우 좌측 상단과 �
 // x,y가 모두 50%이므로 정가운데 점을 기준으로 회전할 것이다.
 transform-origin: 50% 50% 0
 
-/ y가 100%이므로 이므로 정가운데 점을 기준으로 회전할 것이다.
+// y가 100%이므로 이므로 정가운데 점을 기준으로 회전할 것이다.
 transform-origin: 50% 100% 0
 ```
 
@@ -179,7 +180,7 @@ transform-origin: 50% 100% 0
 
 > 3D 작업은 전부 다 GPU가 한다. 일부러 GPU가 그림을 그리게 하려고 3D 속성을 주는 경우도 있는데 rotate 0deg를 줘서 CPU가 아닌 GPU로 작업을 하게 하는게 한 가지 예시다.
 
-[`transform-origin`](#transformorigin) 에서 봤던 예제의 `.test` style 태그에 `backface-visibility: hidden;` 속성을 추가해보자. 사각형들이 회전하다가 뒷면을 보이는 순간부터 투명해지는 것을 볼 수 있다.
+[`transform-origin`](#transform-origin) 에서 봤던 예제의 `.test` style 태그에 `backface-visibility: hidden;` 속성을 추가해보자. 사각형들이 회전하다가 뒷면을 보이는 순간부터 투명해지는 것을 볼 수 있다.
 
 # Comment
 
