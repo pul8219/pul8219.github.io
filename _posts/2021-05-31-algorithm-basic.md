@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[JS] 알고리즘(Algorithm) 종류👍"
+title: "[JS] 알고리즘(Algorithm) 종류"
 categories:
   - algorithm
 ---
