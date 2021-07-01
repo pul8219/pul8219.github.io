@@ -5,6 +5,8 @@ categories:
   - data-structure
 ---
 
+자료구조의 개념, 공부방향, 종류
+
 ![image](/assets/img/Algorithm_Data_Structure.png)
 
 # 자료구조(Data Structure)

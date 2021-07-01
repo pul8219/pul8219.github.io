@@ -5,6 +5,8 @@ categories:
   - algorithm
 ---
 
+알고리즘의 개념, 공부방향, 종류
+
 ![image](/assets/img/Algorithm_Data_Structure.png)
 
 > 완성되지 않은 문서입니다. 정리되는대로 추가할 예정입니다.

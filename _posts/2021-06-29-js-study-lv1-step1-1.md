@@ -5,7 +5,7 @@ categories:
   - javascript
 ---
 
-# 1주차: Todo List 만들기
+# [DKU-STUDY] 1주차: Todo List 만들기
 
 [DKU-STUDY/js-study-lv1](https://github.com/DKU-STUDY/js-study-lv1) 레포지토리의 `step1` 폴더 참고
 
