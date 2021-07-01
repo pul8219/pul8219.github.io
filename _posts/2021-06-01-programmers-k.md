@@ -5,7 +5,7 @@ categories:
   - algorithm-problems
 ---
 
-알고리즘 문제풀이 [Leetcode] 21. Merge Two Sorted Lists (JavaScript)
+알고리즘 문제풀이 [프로그래머스] K번째 수 (JavaScript)
 
 ![image](/assets/img/Algorithm_Data_Structure.png)
 
