@@ -1,14 +1,13 @@
 ---
-title: "자바스크립트"
+title: "웹"
 layout: category
-category: javascript
+category: web
 author_profile: true
 # permalink: categories/javascript
 # taxonomy: JavaScript
 # sidebar_main: true
 ---
 
+<!--
 {% assign posts = site.categories.javascript %}
-{% for post in posts %}
-{% include archive-single.html type=page.entries_layout %}
-{% endfor %}
+{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %} -->
