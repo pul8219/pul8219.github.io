@@ -7,3 +7,5 @@ author_profile: true
 # taxonomy: Algorithm
 # sidebar_main: true
 ---
+
+알고리즘 개념에 관한 글을 올립니다.

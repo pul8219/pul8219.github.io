@@ -7,3 +7,5 @@ author_profile: true
 # taxonomy: Algorithm
 # sidebar_main: true
 ---
+
+자료구조 개념에 관한 글을 올립니다.

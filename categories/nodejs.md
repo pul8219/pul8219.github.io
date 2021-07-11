@@ -1,14 +1,14 @@
 ---
-title: "웹 개발"
+title: "Node.js"
 layout: category
-category: web
+category: nodejs
 author_profile: true
 # permalink: categories/javascript
 # taxonomy: JavaScript
 # sidebar_main: true
 ---
 
-웹 개발에 필요한 지식들을 올립니다.
+Node.js에 관한 글을 올립니다.
 
 <!--
 {% assign posts = site.categories.javascript %}

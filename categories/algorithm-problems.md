@@ -8,3 +8,5 @@ author_profile: true
 # taxonomy: Algorithm
 # sidebar_main: true
 ---
+
+알고리즘 문제를 풀고 고민했던 점, 풀이 아이디어, 코드 등을 올립니다.
