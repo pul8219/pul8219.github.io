@@ -20,7 +20,7 @@ title: "Woldan Blog"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Woldan"
-description: "공부한 것을 차근차근 기록해나가는 Woldan의 개발 블로그입니다. 웹 개발자를 꿈꾸고 있고 뭐든 정리하는 것에 관심이 많습니다. 잘못된 내용이 있다면 댓글로 알려주세요👍"
+description: "Dev-log, Wannabe Web Developer"
 url: "https://pul8219.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "pul8219/comments" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name: "Woldan"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Dev-log, Wannabe Web-Developer"
+  avatar: "/assets/img/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio: "공부한 것을 차근차근 기록해나가는 Woldan의 개발 블로그입니다. 웹 개발자를 꿈꾸고 있고 뭐든 정리하는 것에 관심이 많습니다. 잘못된 내용이 있다면 댓글로 알려주세요👍"
   location: "Somewhere"
   email:
   links:
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/pul8219"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
